@@ -39,13 +39,6 @@
                 </div>
             </div>
             <div class="item" align="center">
-                <img src="/images/trainers/ovcharenko.jpg" alt="Никита Овчаренко" width="50%">
-                <div class="carousel-caption">
-                    <h3>Никита Овчаренко</h3>
-                    <p>     </p>
-                </div>
-            </div>
-            <div class="item" align="center">
                 <img src="/images/trainers/andreeva.jpg" alt="Анна Андреева" width="50%">
                 <div class="carousel-caption">
                     <h3>Анна Андреева</h3>
